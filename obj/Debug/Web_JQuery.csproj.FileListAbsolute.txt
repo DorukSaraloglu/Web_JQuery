@@ -1,0 +1,224 @@
+C:\Users\iau\source\repos\Web_JQuery\Web_JQuery\bin\Web_JQuery.dll.config
+C:\Users\iau\source\repos\Web_JQuery\Web_JQuery\bin\Web_JQuery.dll
+C:\Users\iau\source\repos\Web_JQuery\Web_JQuery\bin\Web_JQuery.pdb
+C:\Users\iau\source\repos\Web_JQuery\Web_JQuery\bin\roslyn\csc.exe
+C:\Users\iau\source\repos\Web_JQuery\Web_JQuery\bin\roslyn\csc.exe.config
+C:\Users\iau\source\repos\Web_JQuery\Web_JQuery\bin\roslyn\csc.rsp
+C:\Users\iau\source\repos\Web_JQuery\Web_JQuery\bin\roslyn\csi.exe
+C:\Users\iau\source\repos\Web_JQuery\Web_JQuery\bin\roslyn\csi.exe.config
+C:\Users\iau\source\repos\Web_JQuery\Web_JQuery\bin\roslyn\csi.rsp
+C:\Users\iau\source\repos\Web_JQuery\Web_JQuery\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\iau\source\repos\Web_JQuery\Web_JQuery\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\iau\source\repos\Web_JQuery\Web_JQuery\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\iau\source\repos\Web_JQuery\Web_JQuery\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\iau\source\repos\Web_JQuery\Web_JQuery\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\iau\source\repos\Web_JQuery\Web_JQuery\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\iau\source\repos\Web_JQuery\Web_JQuery\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\iau\source\repos\Web_JQuery\Web_JQuery\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\iau\source\repos\Web_JQuery\Web_JQuery\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\iau\source\repos\Web_JQuery\Web_JQuery\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\iau\source\repos\Web_JQuery\Web_JQuery\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\iau\source\repos\Web_JQuery\Web_JQuery\bin\roslyn\System.AppContext.dll
+C:\Users\iau\source\repos\Web_JQuery\Web_JQuery\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\iau\source\repos\Web_JQuery\Web_JQuery\bin\roslyn\System.Console.dll
+C:\Users\iau\source\repos\Web_JQuery\Web_JQuery\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\iau\source\repos\Web_JQuery\Web_JQuery\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\iau\source\repos\Web_JQuery\Web_JQuery\bin\roslyn\System.IO.Compression.dll
+C:\Users\iau\source\repos\Web_JQuery\Web_JQuery\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\iau\source\repos\Web_JQuery\Web_JQuery\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\iau\source\repos\Web_JQuery\Web_JQuery\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\iau\source\repos\Web_JQuery\Web_JQuery\bin\roslyn\System.IO.Pipes.dll
+C:\Users\iau\source\repos\Web_JQuery\Web_JQuery\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\iau\source\repos\Web_JQuery\Web_JQuery\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\iau\source\repos\Web_JQuery\Web_JQuery\bin\roslyn\System.Security.Claims.dll
+C:\Users\iau\source\repos\Web_JQuery\Web_JQuery\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\iau\source\repos\Web_JQuery\Web_JQuery\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\iau\source\repos\Web_JQuery\Web_JQuery\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\iau\source\repos\Web_JQuery\Web_JQuery\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\iau\source\repos\Web_JQuery\Web_JQuery\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\iau\source\repos\Web_JQuery\Web_JQuery\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\iau\source\repos\Web_JQuery\Web_JQuery\bin\roslyn\System.ValueTuple.dll
+C:\Users\iau\source\repos\Web_JQuery\Web_JQuery\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\iau\source\repos\Web_JQuery\Web_JQuery\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\iau\source\repos\Web_JQuery\Web_JQuery\bin\roslyn\System.Xml.XPath.dll
+C:\Users\iau\source\repos\Web_JQuery\Web_JQuery\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\iau\source\repos\Web_JQuery\Web_JQuery\bin\roslyn\vbc.exe
+C:\Users\iau\source\repos\Web_JQuery\Web_JQuery\bin\roslyn\vbc.exe.config
+C:\Users\iau\source\repos\Web_JQuery\Web_JQuery\bin\roslyn\vbc.rsp
+C:\Users\iau\source\repos\Web_JQuery\Web_JQuery\bin\roslyn\VBCSCompiler.exe
+C:\Users\iau\source\repos\Web_JQuery\Web_JQuery\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\iau\source\repos\Web_JQuery\Web_JQuery\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\iau\source\repos\Web_JQuery\Web_JQuery\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\iau\source\repos\Web_JQuery\Web_JQuery\obj\Debug\Web_JQuery.csprojAssemblyReference.cache
+C:\Users\iau\source\repos\Web_JQuery\Web_JQuery\obj\Debug\Web_JQuery.csproj.CoreCompileInputs.cache
+C:\Users\iau\source\repos\Web_JQuery\Web_JQuery\obj\Debug\Web_JQuery.csproj.CopyComplete
+C:\Users\iau\source\repos\Web_JQuery\Web_JQuery\obj\Debug\Web_JQuery.dll
+C:\Users\iau\source\repos\Web_JQuery\Web_JQuery\obj\Debug\Web_JQuery.pdb
+E:\SABAHCI\Web_JQuery\Web_JQuery\bin\Web_JQuery.dll.config
+E:\SABAHCI\Web_JQuery\Web_JQuery\bin\Web_JQuery.dll
+E:\SABAHCI\Web_JQuery\Web_JQuery\bin\Web_JQuery.pdb
+E:\SABAHCI\Web_JQuery\Web_JQuery\bin\roslyn\csc.exe
+E:\SABAHCI\Web_JQuery\Web_JQuery\bin\roslyn\csc.exe.config
+E:\SABAHCI\Web_JQuery\Web_JQuery\bin\roslyn\csc.rsp
+E:\SABAHCI\Web_JQuery\Web_JQuery\bin\roslyn\csi.exe
+E:\SABAHCI\Web_JQuery\Web_JQuery\bin\roslyn\csi.exe.config
+E:\SABAHCI\Web_JQuery\Web_JQuery\bin\roslyn\csi.rsp
+E:\SABAHCI\Web_JQuery\Web_JQuery\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\SABAHCI\Web_JQuery\Web_JQuery\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\SABAHCI\Web_JQuery\Web_JQuery\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\SABAHCI\Web_JQuery\Web_JQuery\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\SABAHCI\Web_JQuery\Web_JQuery\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\SABAHCI\Web_JQuery\Web_JQuery\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\SABAHCI\Web_JQuery\Web_JQuery\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\SABAHCI\Web_JQuery\Web_JQuery\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\SABAHCI\Web_JQuery\Web_JQuery\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\SABAHCI\Web_JQuery\Web_JQuery\bin\roslyn\Microsoft.Managed.Core.targets
+E:\SABAHCI\Web_JQuery\Web_JQuery\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\SABAHCI\Web_JQuery\Web_JQuery\bin\roslyn\System.AppContext.dll
+E:\SABAHCI\Web_JQuery\Web_JQuery\bin\roslyn\System.Collections.Immutable.dll
+E:\SABAHCI\Web_JQuery\Web_JQuery\bin\roslyn\System.Console.dll
+E:\SABAHCI\Web_JQuery\Web_JQuery\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\SABAHCI\Web_JQuery\Web_JQuery\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\SABAHCI\Web_JQuery\Web_JQuery\bin\roslyn\System.IO.Compression.dll
+E:\SABAHCI\Web_JQuery\Web_JQuery\bin\roslyn\System.IO.FileSystem.dll
+E:\SABAHCI\Web_JQuery\Web_JQuery\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\SABAHCI\Web_JQuery\Web_JQuery\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\SABAHCI\Web_JQuery\Web_JQuery\bin\roslyn\System.IO.Pipes.dll
+E:\SABAHCI\Web_JQuery\Web_JQuery\bin\roslyn\System.Reflection.Metadata.dll
+E:\SABAHCI\Web_JQuery\Web_JQuery\bin\roslyn\System.Security.AccessControl.dll
+E:\SABAHCI\Web_JQuery\Web_JQuery\bin\roslyn\System.Security.Claims.dll
+E:\SABAHCI\Web_JQuery\Web_JQuery\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\SABAHCI\Web_JQuery\Web_JQuery\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\SABAHCI\Web_JQuery\Web_JQuery\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\SABAHCI\Web_JQuery\Web_JQuery\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\SABAHCI\Web_JQuery\Web_JQuery\bin\roslyn\System.Security.Principal.Windows.dll
+E:\SABAHCI\Web_JQuery\Web_JQuery\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\SABAHCI\Web_JQuery\Web_JQuery\bin\roslyn\System.ValueTuple.dll
+E:\SABAHCI\Web_JQuery\Web_JQuery\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\SABAHCI\Web_JQuery\Web_JQuery\bin\roslyn\System.Xml.XmlDocument.dll
+E:\SABAHCI\Web_JQuery\Web_JQuery\bin\roslyn\System.Xml.XPath.dll
+E:\SABAHCI\Web_JQuery\Web_JQuery\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\SABAHCI\Web_JQuery\Web_JQuery\bin\roslyn\vbc.exe
+E:\SABAHCI\Web_JQuery\Web_JQuery\bin\roslyn\vbc.exe.config
+E:\SABAHCI\Web_JQuery\Web_JQuery\bin\roslyn\vbc.rsp
+E:\SABAHCI\Web_JQuery\Web_JQuery\bin\roslyn\VBCSCompiler.exe
+E:\SABAHCI\Web_JQuery\Web_JQuery\bin\roslyn\VBCSCompiler.exe.config
+E:\SABAHCI\Web_JQuery\Web_JQuery\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\SABAHCI\Web_JQuery\Web_JQuery\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\SABAHCI\Web_JQuery\Web_JQuery\obj\Debug\Web_JQuery.csprojAssemblyReference.cache
+E:\SABAHCI\Web_JQuery\Web_JQuery\obj\Debug\Web_JQuery.csproj.CoreCompileInputs.cache
+E:\SABAHCI\Web_JQuery\Web_JQuery\obj\Debug\Web_JQuery.csproj.CopyComplete
+E:\SABAHCI\Web_JQuery\Web_JQuery\obj\Debug\Web_JQuery.dll
+E:\SABAHCI\Web_JQuery\Web_JQuery\obj\Debug\Web_JQuery.pdb
+E:\1. GRUP\Web_JQuery\Web_JQuery\bin\Web_JQuery.dll.config
+E:\1. GRUP\Web_JQuery\Web_JQuery\bin\Web_JQuery.dll
+E:\1. GRUP\Web_JQuery\Web_JQuery\bin\Web_JQuery.pdb
+E:\1. GRUP\Web_JQuery\Web_JQuery\bin\roslyn\csc.exe
+E:\1. GRUP\Web_JQuery\Web_JQuery\bin\roslyn\csc.exe.config
+E:\1. GRUP\Web_JQuery\Web_JQuery\bin\roslyn\csc.rsp
+E:\1. GRUP\Web_JQuery\Web_JQuery\bin\roslyn\csi.exe
+E:\1. GRUP\Web_JQuery\Web_JQuery\bin\roslyn\csi.exe.config
+E:\1. GRUP\Web_JQuery\Web_JQuery\bin\roslyn\csi.rsp
+E:\1. GRUP\Web_JQuery\Web_JQuery\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\1. GRUP\Web_JQuery\Web_JQuery\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\1. GRUP\Web_JQuery\Web_JQuery\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\1. GRUP\Web_JQuery\Web_JQuery\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\1. GRUP\Web_JQuery\Web_JQuery\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\1. GRUP\Web_JQuery\Web_JQuery\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\1. GRUP\Web_JQuery\Web_JQuery\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\1. GRUP\Web_JQuery\Web_JQuery\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\1. GRUP\Web_JQuery\Web_JQuery\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\1. GRUP\Web_JQuery\Web_JQuery\bin\roslyn\Microsoft.Managed.Core.targets
+E:\1. GRUP\Web_JQuery\Web_JQuery\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\1. GRUP\Web_JQuery\Web_JQuery\bin\roslyn\System.AppContext.dll
+E:\1. GRUP\Web_JQuery\Web_JQuery\bin\roslyn\System.Collections.Immutable.dll
+E:\1. GRUP\Web_JQuery\Web_JQuery\bin\roslyn\System.Console.dll
+E:\1. GRUP\Web_JQuery\Web_JQuery\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\1. GRUP\Web_JQuery\Web_JQuery\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\1. GRUP\Web_JQuery\Web_JQuery\bin\roslyn\System.IO.Compression.dll
+E:\1. GRUP\Web_JQuery\Web_JQuery\bin\roslyn\System.IO.FileSystem.dll
+E:\1. GRUP\Web_JQuery\Web_JQuery\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\1. GRUP\Web_JQuery\Web_JQuery\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\1. GRUP\Web_JQuery\Web_JQuery\bin\roslyn\System.IO.Pipes.dll
+E:\1. GRUP\Web_JQuery\Web_JQuery\bin\roslyn\System.Reflection.Metadata.dll
+E:\1. GRUP\Web_JQuery\Web_JQuery\bin\roslyn\System.Security.AccessControl.dll
+E:\1. GRUP\Web_JQuery\Web_JQuery\bin\roslyn\System.Security.Claims.dll
+E:\1. GRUP\Web_JQuery\Web_JQuery\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\1. GRUP\Web_JQuery\Web_JQuery\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\1. GRUP\Web_JQuery\Web_JQuery\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\1. GRUP\Web_JQuery\Web_JQuery\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\1. GRUP\Web_JQuery\Web_JQuery\bin\roslyn\System.Security.Principal.Windows.dll
+E:\1. GRUP\Web_JQuery\Web_JQuery\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\1. GRUP\Web_JQuery\Web_JQuery\bin\roslyn\System.ValueTuple.dll
+E:\1. GRUP\Web_JQuery\Web_JQuery\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\1. GRUP\Web_JQuery\Web_JQuery\bin\roslyn\System.Xml.XmlDocument.dll
+E:\1. GRUP\Web_JQuery\Web_JQuery\bin\roslyn\System.Xml.XPath.dll
+E:\1. GRUP\Web_JQuery\Web_JQuery\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\1. GRUP\Web_JQuery\Web_JQuery\bin\roslyn\vbc.exe
+E:\1. GRUP\Web_JQuery\Web_JQuery\bin\roslyn\vbc.exe.config
+E:\1. GRUP\Web_JQuery\Web_JQuery\bin\roslyn\vbc.rsp
+E:\1. GRUP\Web_JQuery\Web_JQuery\bin\roslyn\VBCSCompiler.exe
+E:\1. GRUP\Web_JQuery\Web_JQuery\bin\roslyn\VBCSCompiler.exe.config
+E:\1. GRUP\Web_JQuery\Web_JQuery\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\1. GRUP\Web_JQuery\Web_JQuery\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\1. GRUP\Web_JQuery\Web_JQuery\obj\Debug\Web_JQuery.csprojAssemblyReference.cache
+E:\1. GRUP\Web_JQuery\Web_JQuery\obj\Debug\Web_JQuery.csproj.CoreCompileInputs.cache
+E:\1. GRUP\Web_JQuery\Web_JQuery\obj\Debug\Web_JQuery.csproj.CopyComplete
+E:\1. GRUP\Web_JQuery\Web_JQuery\obj\Debug\Web_JQuery.dll
+E:\1. GRUP\Web_JQuery\Web_JQuery\obj\Debug\Web_JQuery.pdb
+G:\WEB\Web_JQuery\Web_JQuery\bin\Web_JQuery.dll.config
+G:\WEB\Web_JQuery\Web_JQuery\bin\Web_JQuery.dll
+G:\WEB\Web_JQuery\Web_JQuery\bin\Web_JQuery.pdb
+G:\WEB\Web_JQuery\Web_JQuery\bin\roslyn\csc.exe
+G:\WEB\Web_JQuery\Web_JQuery\bin\roslyn\csc.exe.config
+G:\WEB\Web_JQuery\Web_JQuery\bin\roslyn\csc.rsp
+G:\WEB\Web_JQuery\Web_JQuery\bin\roslyn\csi.exe
+G:\WEB\Web_JQuery\Web_JQuery\bin\roslyn\csi.exe.config
+G:\WEB\Web_JQuery\Web_JQuery\bin\roslyn\csi.rsp
+G:\WEB\Web_JQuery\Web_JQuery\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\WEB\Web_JQuery\Web_JQuery\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\WEB\Web_JQuery\Web_JQuery\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+G:\WEB\Web_JQuery\Web_JQuery\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\WEB\Web_JQuery\Web_JQuery\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+G:\WEB\Web_JQuery\Web_JQuery\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\WEB\Web_JQuery\Web_JQuery\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\WEB\Web_JQuery\Web_JQuery\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+G:\WEB\Web_JQuery\Web_JQuery\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+G:\WEB\Web_JQuery\Web_JQuery\bin\roslyn\Microsoft.Managed.Core.targets
+G:\WEB\Web_JQuery\Web_JQuery\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\WEB\Web_JQuery\Web_JQuery\bin\roslyn\System.AppContext.dll
+G:\WEB\Web_JQuery\Web_JQuery\bin\roslyn\System.Collections.Immutable.dll
+G:\WEB\Web_JQuery\Web_JQuery\bin\roslyn\System.Console.dll
+G:\WEB\Web_JQuery\Web_JQuery\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+G:\WEB\Web_JQuery\Web_JQuery\bin\roslyn\System.Diagnostics.StackTrace.dll
+G:\WEB\Web_JQuery\Web_JQuery\bin\roslyn\System.IO.Compression.dll
+G:\WEB\Web_JQuery\Web_JQuery\bin\roslyn\System.IO.FileSystem.dll
+G:\WEB\Web_JQuery\Web_JQuery\bin\roslyn\System.IO.FileSystem.Primitives.dll
+G:\WEB\Web_JQuery\Web_JQuery\bin\roslyn\System.IO.Pipes.AccessControl.dll
+G:\WEB\Web_JQuery\Web_JQuery\bin\roslyn\System.IO.Pipes.dll
+G:\WEB\Web_JQuery\Web_JQuery\bin\roslyn\System.Reflection.Metadata.dll
+G:\WEB\Web_JQuery\Web_JQuery\bin\roslyn\System.Security.AccessControl.dll
+G:\WEB\Web_JQuery\Web_JQuery\bin\roslyn\System.Security.Claims.dll
+G:\WEB\Web_JQuery\Web_JQuery\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+G:\WEB\Web_JQuery\Web_JQuery\bin\roslyn\System.Security.Cryptography.Encoding.dll
+G:\WEB\Web_JQuery\Web_JQuery\bin\roslyn\System.Security.Cryptography.Primitives.dll
+G:\WEB\Web_JQuery\Web_JQuery\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+G:\WEB\Web_JQuery\Web_JQuery\bin\roslyn\System.Security.Principal.Windows.dll
+G:\WEB\Web_JQuery\Web_JQuery\bin\roslyn\System.Text.Encoding.CodePages.dll
+G:\WEB\Web_JQuery\Web_JQuery\bin\roslyn\System.ValueTuple.dll
+G:\WEB\Web_JQuery\Web_JQuery\bin\roslyn\System.Xml.ReaderWriter.dll
+G:\WEB\Web_JQuery\Web_JQuery\bin\roslyn\System.Xml.XmlDocument.dll
+G:\WEB\Web_JQuery\Web_JQuery\bin\roslyn\System.Xml.XPath.dll
+G:\WEB\Web_JQuery\Web_JQuery\bin\roslyn\System.Xml.XPath.XDocument.dll
+G:\WEB\Web_JQuery\Web_JQuery\bin\roslyn\vbc.exe
+G:\WEB\Web_JQuery\Web_JQuery\bin\roslyn\vbc.exe.config
+G:\WEB\Web_JQuery\Web_JQuery\bin\roslyn\vbc.rsp
+G:\WEB\Web_JQuery\Web_JQuery\bin\roslyn\VBCSCompiler.exe
+G:\WEB\Web_JQuery\Web_JQuery\bin\roslyn\VBCSCompiler.exe.config
+G:\WEB\Web_JQuery\Web_JQuery\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\WEB\Web_JQuery\Web_JQuery\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\WEB\Web_JQuery\Web_JQuery\obj\Debug\Web_JQuery.csprojAssemblyReference.cache
+G:\WEB\Web_JQuery\Web_JQuery\obj\Debug\Web_JQuery.csproj.CoreCompileInputs.cache
+G:\WEB\Web_JQuery\Web_JQuery\obj\Debug\Web_JQuery.csproj.CopyComplete
+G:\WEB\Web_JQuery\Web_JQuery\obj\Debug\Web_JQuery.dll
+G:\WEB\Web_JQuery\Web_JQuery\obj\Debug\Web_JQuery.pdb
